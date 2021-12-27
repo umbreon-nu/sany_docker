@@ -12,7 +12,7 @@
                     </a>
                 </div>
                 <div class="col-3 d-none d-md-block d-print-block">
-                    <img src="images/logo.png" height="60">
+                    <img src="images/sany_logo.png" height="60">
                 </div>
             </div>
         </div>
@@ -110,7 +110,7 @@
                         <div class="card-body">
                             <h4 class="card-title fw-bold text-center">アイラブ評価シリーズ - フカタロウ</h5>
                         </div>
-                        <img class="bd-placeholder-img card-img-bottom" src="images/hukataro_detail.png">
+                        <img class="bd-placeholder-img card-img-bottom" src="images/detail.png">
                     </div>
                 </div>
                 <div class="col col-12 col-md-6 mb-6">
